@@ -8,6 +8,7 @@ The below diagram is an overview of the system built in this project. This is do
 [Repo for the infrastructure](https://github.com/ebiskhan123/infrastructure)
 
 <br/>
+
 ![image](./static/infrastructure.png)
 
 <br/>
